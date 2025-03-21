@@ -189,6 +189,8 @@ No modules.
 | <a name="output_databricks_high_concurrency_cluster"></a> [databricks\_high\_concurrency\_cluster](#output\_databricks\_high\_concurrency\_cluster) | Databricks High Concurrency Cluster |
 | <a name="output_databricks_standard_cluster"></a> [databricks\_standard\_cluster](#output\_databricks\_standard\_cluster) | Databricks Standard Cluster |
 | <a name="output_databricks_workspace"></a> [databricks\_workspace](#output\_databricks\_workspace) | Databricks Workspace |
+| <a name="output_dev_center"></a> [dev\_center](#output\_dev\_center) | Dev Center |
+| <a name="output_dev_center_project"></a> [dev\_center\_project](#output\_dev\_center\_project) | Dev Center Project |
 | <a name="output_dev_test_lab"></a> [dev\_test\_lab](#output\_dev\_test\_lab) | Dev Test Lab |
 | <a name="output_dev_test_linux_virtual_machine"></a> [dev\_test\_linux\_virtual\_machine](#output\_dev\_test\_linux\_virtual\_machine) | Dev Test Linux Virtual Machine |
 | <a name="output_dev_test_windows_virtual_machine"></a> [dev\_test\_windows\_virtual\_machine](#output\_dev\_test\_windows\_virtual\_machine) | Dev Test Windows Virtual Machine |
@@ -256,6 +258,7 @@ No modules.
 | <a name="output_log_analytics_workspace"></a> [log\_analytics\_workspace](#output\_log\_analytics\_workspace) | Log Analytics Workspace |
 | <a name="output_logic_app_workflow"></a> [logic\_app\_workflow](#output\_logic\_app\_workflow) | Logic App Workflow |
 | <a name="output_machine_learning_workspace"></a> [machine\_learning\_workspace](#output\_machine\_learning\_workspace) | Machine Learning Workspace |
+| <a name="output_managed_devops_pool"></a> [managed\_devops\_pool](#output\_managed\_devops\_pool) | Managed DevOps Pool |
 | <a name="output_managed_disk"></a> [managed\_disk](#output\_managed\_disk) | Managed Disk |
 | <a name="output_maps_account"></a> [maps\_account](#output\_maps\_account) | Maps Account |
 | <a name="output_mariadb_database"></a> [mariadb\_database](#output\_mariadb\_database) | Mariadb Database |
